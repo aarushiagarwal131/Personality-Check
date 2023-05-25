@@ -12,7 +12,6 @@ The Personality Check App is a Flutter-based application that tests the personal
 ## Screenshots
 
 ![1](https://github.com/aarushiagarwal131/Personality-Check/assets/100944778/d7703942-84d7-4b5e-bab7-0d84527e01b7)
-![2](https://github.com/aarushiagarwal131/Personality-Check/assets/100944778/1cb71c7e-078d-43b1-9856-96ef523d9731)
 ![3](https://github.com/aarushiagarwal131/Personality-Check/assets/100944778/23149d15-d94d-494c-9e27-24464d8b0a4a)
 
 
